@@ -1,0 +1,13 @@
+.look {
+    position: absolute !important;
+    right: 80px !important;
+}
+
+.mui-search {
+    position: relative;
+    top: 60px;
+}
+
+.btns {
+    width: 100%;
+}
